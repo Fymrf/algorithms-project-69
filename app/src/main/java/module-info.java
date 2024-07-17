@@ -1,4 +1,4 @@
-module hexlet.code.app {
+module hexlet.code {
     requires javafx.controls;
     requires javafx.fxml;
             
